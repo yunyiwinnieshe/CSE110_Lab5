@@ -1,10 +1,13 @@
 # CSE110_Lab5
 
 # Lab 5 - Starter
-link to your Continuous Integration: https://github.com/yunyiwinnieshe/introduction-to-github-
+
 
 I have not made changes to the html files, but you might see extra spaces because I was testing my code. 
 
-expose.html page: 
+expose.html page: https://yunyiwinnieshe.github.io/CSE110_Lab5/expose.html
 
-explore.html page:
+explore.html page: https://yunyiwinnieshe.github.io/CSE110_Lab5/explore.html
+
+link to your Continuous Integration: https://github.com/yunyiwinnieshe/introduction-to-github-
+
