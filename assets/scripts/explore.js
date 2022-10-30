@@ -45,23 +45,13 @@ function init() {
     message.voice = voices;
     
     speechSynthesis.speak(message);
-    img.src = './assets/images/smiling-open.png';
+    img.src = 'assets/images/smiling-open.png';
 
     message.addEventListener('end', function(){
-      img.src = './assets/images/smiling.png';
+      img.src = 'assets/images/smiling.png';
     });
   
   });
-
-  
-  // if(speechSynthesis.speaking == true){
-  //   img.src = '/assets/images/air-horn.svg';
-  // }
-
-  
-
-  
-
   
 }
 
